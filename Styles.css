@@ -1,0 +1,13 @@
+
+body { background-color: gray; }
+
+
+h3 { color: green; cursor: pointer; }
+
+
+.h3-azul { color: blue; }
+.h3-rojo { color: red; }
+
+
+h3:hover { color: orange !important; }
+h3:active { color: purple !important; }
