@@ -1,0 +1,40 @@
+#letra {
+  font-size: 100px;
+}
+
+h3 {
+  color: green;
+}
+
+.azul{
+  color: blue;
+}
+
+.rojo{
+  color: red;
+}
+
+.aqua:hover {
+  color: aquamarine;
+}
+
+.rosa:hover {
+  color: pink;
+}
+
+.morado:hover {
+  color: purple;
+}
+
+.amarillo:active {
+  color: yellow;
+}
+
+.olivo:active {
+  color: olive;
+}
+
+.teal:active {
+  color: teal;
+}
+
